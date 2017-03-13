@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textViewTen" type="id" />
+    <item name="textViewChieuCao" type="id" />
+    <item name="textViewCanNang" type="id" />
+    <item name="textViewBMI" type="id" />
+    <item name="textViewKetLuan" type="id" />
+    <item name="textViewKQKetLuan" type="id" />
+    <item name="textViewKQBMI" type="id" />
+    <item name="buttonBMI" type="id" />
+    <item name="editTextTen" type="id" />
+    <item name="editTextCanNang" type="id" />
+    <item name="editTextChieuCao" type="id" />
+</resources>
